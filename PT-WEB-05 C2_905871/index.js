@@ -55,7 +55,7 @@ Form.addEventListener("submit", function (e) {
         })
     });
 
-    Employee.value = '';
+    Doctor.value = '';
     DoctorID.value = '';
     Experience.value = '';
     specialization.value = '';
